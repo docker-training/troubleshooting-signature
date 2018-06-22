@@ -1,1 +1,0 @@
-ls /var/lib/docker
